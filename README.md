@@ -1,6 +1,6 @@
 # 💜 OrbitRoom 💜
 
-**[Live site](http://sooahs-room-folio.com/)**
+**[Live site](https://orbitroom.vercel.app/)**
 
 ![Page screensho](public/media/og-image.webp?raw=true "Page screenshot")
 
